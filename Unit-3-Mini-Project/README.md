@@ -1,1 +1,1 @@
-Unit 3 Mini Project Documentation
+Unit 3 Mini Project
